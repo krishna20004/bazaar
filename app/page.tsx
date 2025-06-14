@@ -6,8 +6,8 @@ import AuctionBanner from "@/components/hero";
 import Locations from "@/components/locations";
 import Navbar from "@/components/navbar";
 import LatestFreeAuctions from "@/components/table";
-import AuctionTable from "@/components/table";
-import { Lateef } from "next/font/google";
+
+
 
 
 export default function Home() {

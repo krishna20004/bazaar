@@ -1,6 +1,6 @@
 'use client';
 
-import { FaBuilding, FaHome, FaCar, FaIndustry, FaGem, FaCity } from 'react-icons/fa';
+import { FaBuilding, FaHome, FaCar, FaIndustry, FaGem} from 'react-icons/fa';
 
 const categories = [
   { label: 'Commercial', icon: <FaBuilding />, count: 105 },
